@@ -1,0 +1,21 @@
+*{
+    background-color: aquamarine;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: blanchedalmond;
+    box-shadow: 2px 2px gray;
+    text-shadow: 2px 2px gray;
+}
+button{
+    border: none;
+    height: 50px;
+    background-color: purple;
+    width: 170px;
+    border-radius: 25px;
+    color: whitesmoke;
+    font-weight: 800;
+    text-align: center;
+    
+}
